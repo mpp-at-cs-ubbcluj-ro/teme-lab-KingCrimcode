@@ -5,6 +5,12 @@
       <module name="tema_lab_2" target="21" />
       <module name="tema_lab_2.main" target="21" />
       <module name="tema_lab_2.test" target="21" />
+      <module name="tema_lab_3" target="21" />
+      <module name="tema_lab_3.main" target="21" />
+      <module name="tema_lab_3.test" target="21" />
+      <module name="tema_lab_4" target="21" />
+      <module name="tema_lab_4.main" target="21" />
+      <module name="tema_lab_4.test" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>

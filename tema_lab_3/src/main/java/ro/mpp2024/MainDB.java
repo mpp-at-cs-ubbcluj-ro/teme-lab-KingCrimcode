@@ -14,9 +14,10 @@ public class MainDB {
         }
 
         UserRepository userRepository = new UserRepository(props);
-        userRepository.add(new User(12, "Test user 1", "C"));
-        userRepository.add(new User(13, "Test user 2", "Python"));
-        userRepository.update(new User(13, "Test user changed", "C"));
+        userRepository.add(new User(15, "Test user 1", "C"));
+        userRepository.add(new User(16, "Test user 2", "Python"));
+
+        userRepository.update(new User(16, "Test user changed", "C"));
         userRepository.getUsersByLanguage("C").forEach(System.out::println);
     }
 }

@@ -15,6 +15,20 @@
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/tema_lab_3" />
         <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/tema_lab_3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/tema_lab_4" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/tema_lab_4" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
